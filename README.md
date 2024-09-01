@@ -28,10 +28,14 @@ C# Compiler: The program uses the csc C# compiler, which is included with the .N
 
 ## Usage
 - Clone this git file to your local machine's desktop:
+  ```bash
+  cd ~/Desktop
+  git clone https://github.com/winpaing/OldPhonePad.git
+  ```
 
 ## Run the Program
 ```bash
-cd ~/Desktop/OldPhonePadApp
+cd ~/Desktop/OldPhonePadApp/OldPhonePadApp
 dotnet run
 ```
 ## Enter Key Sequences:
