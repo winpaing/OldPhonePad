@@ -1,0 +1,14 @@
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/OldPhonePadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/OldPhonePadApp.AssemblyInfoInputs.cache
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/OldPhonePadApp.AssemblyInfo.cs
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/OldPhonePadApp.csproj.CoreCompileInputs.cache
+/Users/winpaing/Desktop/OldPhonePadApp/bin/Debug/net8.0/OldPhonePadApp
+/Users/winpaing/Desktop/OldPhonePadApp/bin/Debug/net8.0/OldPhonePadApp.deps.json
+/Users/winpaing/Desktop/OldPhonePadApp/bin/Debug/net8.0/OldPhonePadApp.runtimeconfig.json
+/Users/winpaing/Desktop/OldPhonePadApp/bin/Debug/net8.0/OldPhonePadApp.dll
+/Users/winpaing/Desktop/OldPhonePadApp/bin/Debug/net8.0/OldPhonePadApp.pdb
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/OldPhonePadApp.dll
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/refint/OldPhonePadApp.dll
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/OldPhonePadApp.pdb
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/OldPhonePadApp.genruntimeconfig.cache
+/Users/winpaing/Desktop/OldPhonePadApp/obj/Debug/net8.0/ref/OldPhonePadApp.dll
