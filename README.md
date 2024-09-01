@@ -26,18 +26,18 @@ This C# program simulates the input method of old mobile phones that used a keyp
 
 C# Compiler: The program uses the csc C# compiler, which is included with the .NET SDK
 
-##Usage
+## Usage
 - Clone this git file to your local machine's desktop:
 
-##Run the Program
+## Run the Program
 ```bash
 cd ~/Desktop/OldPhonePadApp
 dotnet run
 ```
-##Enter Key Sequences:
+## Enter Key Sequences:
 Input numbers as you would on an old mobile keypad.
 Press Y to decode another sequence or N to exit.
-##Example
+## Example
 ```bash
 Enter Number: 227*#
 Results is : B
